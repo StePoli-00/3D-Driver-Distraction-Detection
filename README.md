@@ -9,4 +9,4 @@ This project, developed in collaboration with Stefano Politanò and Vincenzo Mac
 4. **Faiss**: Library used to Retrieval part. Retrieval system returns the embedding images most similar a specified query. The process involves comparing the ground-truth classification (GNN) with the classification obtained through K-nearest neighbors (KNN) during the retrieval process with the K-embeddings.
 
 ### Overview: 
-![General Overview]()
+![General Overview](<img width="1379" alt="Screenshot 2024-01-12 alle 09 41 45" src="https://github.com/zampifre/DDD/assets/60720249/96f27e10-aaca-4fec-a6a5-8874602d0015">)
