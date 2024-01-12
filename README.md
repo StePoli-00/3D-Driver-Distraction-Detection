@@ -1,6 +1,4 @@
------------------------------------------------------
-                  Driver Distraction Detection
------------------------------------------------------
+Driver Distraction Detection
 
 This project, developed in collaboration with Stefano Politanò and Vincenzo Macellaro, was undertaken as part of the Computer Vision & Cognitive System examination for our Master's degree. The primary objective of the system is to classify the driver's state into five distinct risk categories, ranging from zero to very high. The core components utilized in the system are:
 
