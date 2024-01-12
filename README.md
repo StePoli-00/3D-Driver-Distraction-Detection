@@ -8,5 +8,5 @@ This project, developed in collaboration with Stefano Politanò and Vincenzo Mac
 3. **Graph Neural Network (GNN)**: Developed by us, that combine Mediapipe's output with the YOLO bounding box's coordinates, for the classification of the driver's state.
 4. **Faiss**: Library used to Retrieval part. Retrieval system returns the embedding images most similar a specified query. The process involves comparing the ground-truth classification (GNN) with the classification obtained through K-nearest neighbors (KNN) during the retrieval process with the K-embeddings.
 
-
-![]/Users/zampifre/Desktop/DDD/Screenshot 2024-01-12 alle 09.30.42.png
+### Overview: 
+![General Overview](/Users/zampifre/Desktop/DDD/Screenshot 2024-01-12 alle 09.30.42.png)
