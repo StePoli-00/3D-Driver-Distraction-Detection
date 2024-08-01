@@ -1,6 +1,7 @@
 # Driver Distraction Detection
 This project, developed in collaboration with [Francesco Zampirollo](https://github.com/zampifre) and [Vincenzo Macellaro](https://github.com/vincenzomacellaro).
 
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; border: 1px solid black;">
@@ -11,6 +12,7 @@ This project, developed in collaboration with [Francesco Zampirollo](https://git
     </td>
   </tr>
 </table>
+</center>
 
 ## Abstract
 Distraction, is the major cause of road accidents, using Computer Vision and Machine Learning,Pose Estimation we are able to detect drivers attention and distraction. <br>
