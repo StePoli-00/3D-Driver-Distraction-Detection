@@ -23,17 +23,17 @@ This project tackles driver distraction, a major cause of road accidents, using 
 
 
 # Model
-<center>
+<p align="center">
 <img  src="images/demo_gnn.gif">
-</center>
+</p>
 
 - **Mediapipe**: Used for keypoint detection to analyze the driver's state.
 - **YOLO (You Only Look Once)**: Employed for detecting potential distraction objects such as phones.
 - **Graph Neural Network (GNN)**: Developed by us, that combine Mediapipe's output with the YOLO bounding box's coordinates, for the classification of the driver's state.
 
 ## Retrieval 
-<center>
+<p align="center">
 <img  src="images/demo_retrieval.gif">
-</center>
+</p>
 
 - **Faiss**: Library used to Retrieval part. Retrieval system returns the embedding images most similar a specified query. The process involves comparing the ground-truth classification (GNN) with the classification obtained through K-nearest neighbors (KNN) during the retrieval process with the K-embeddings.
