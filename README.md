@@ -1,5 +1,5 @@
 # Driver Distraction Detection
-
+This project, developed in collaboration with [Francesco Zampirollo](https://github.com/zampifre) and [Vincenzo Macellaro](https://github.com/vincenzomacellaro).
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -13,16 +13,14 @@
 </table>
 
 ## Abstract
-This project tackles driver distraction, a major cause of road accidents, using Computer Vision and Machine Learning. It combines pose estimation with the MediaPipe framework and distraction source detection via a YOLOv7 CNN model to monitor drivers. The system classifies driver behavior into five risk levels and uses a Graph Convolutional Network (GCN) for enhanced analysis. Preliminary results show 90% accuracy, suggesting significant potential to improve road safety by alerting drivers or initiating corrective actions.
+Distraction, is the major cause of road accidents, using Computer Vision and Machine Learning,Pose Estimation we are able to detect drivers attention and distraction. <br>
+The system classifies driver behavior into five risk levels and uses a Graph Convolutional Network (GCN) for enhanced analysis. Preliminary results show 90% accuracy, suggesting significant potential to improve road safety by alerting drivers or initiating corrective actions.
 
 
 ## Overview
 <img width="1379" alt="overview" src="images/overview.png">
 
-
-
-
-# Model
+## Model
 <p align="center">
 <img  src="images/demo_gnn.gif">
 </p>
