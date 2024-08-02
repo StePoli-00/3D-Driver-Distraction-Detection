@@ -15,7 +15,7 @@ This project, developed in collaboration with [Francesco Zampirollo](https://git
 </center>
 
 ## Abstract
-Distraction, is the major cause of road accidents, using Computer Vision and Machine Learning,Pose Estimation we are able to detect drivers attention and distraction. <br>
+Distraction, is the major cause of road accidents, using Computer Vision,Machine Learning and Pose Estimation we are able to detect drivers attention and distraction. <br>
 The system classifies driver behavior into five risk levels and uses a Graph Convolutional Network (GCN) for enhanced analysis. Preliminary results show 90% accuracy, suggesting significant potential to improve road safety by alerting drivers or initiating corrective actions.
 
 
