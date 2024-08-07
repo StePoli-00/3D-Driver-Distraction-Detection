@@ -1,5 +1,5 @@
 # Driver Distraction Detection
-This project,was developed in collaboration with [Francesco Zampirollo](https://github.com/zampifre) and [Vincenzo Macellaro](https://github.com/vincenzomacellaro).
+This project was developed in collaboration with [Francesco Zampirollo](https://github.com/zampifre) and [Vincenzo Macellaro](https://github.com/vincenzomacellaro).
 
 
 <table style="width: 100%; border-collapse: collapse;">
